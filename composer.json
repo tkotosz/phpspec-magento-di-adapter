@@ -7,8 +7,6 @@
     ],
     "require": {
         "magento/framework": ">=100.1",
-        "zendframework/zend-stdlib": "~2.4.6",
-        "zendframework/zend-code": "~2.4.6",
         "mikey179/vfsStream": "^1.6"
     },
     "require-dev": {
